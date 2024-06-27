@@ -1,0 +1,20 @@
+h1{
+    background-color: black;
+    color: green;
+    padding: 20px;
+    text-align: center;
+}
+
+h2{
+    
+    color:brown;
+    padding: 20px;
+    text-align: center;
+}
+
+body{
+    background-image: url("https://media.istockphoto.com/id/1169630303/photo/blue-textured-background.webp?b=1&s=170667a&w=0&k=20&c=tI2xFhXqXFqMM0IvxSYY3F7LIwv450h2ch3yD-lZ9HU=");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
